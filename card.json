@@ -1,0 +1,102 @@
+{
+  "slug": "lucas-moreau",
+  "name": "Lucas Moreau",
+  "pronouns": "he/him",
+  "title": "MLA Candidate, Landscape Architecture",
+  "headline": "Designing floodable parks that make room for water.",
+  "department": "College of Environment + Design",
+  "organization": "University of Georgia",
+  "gsaRole": "GSA Member",
+  "badgeLabel": "GSA Member",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "Graduate student at the University of Georgia. Designing floodable parks that make room for water. Open to collaborations, mentoring and good conversations.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Drought stress memory",
+    "Root phenotyping",
+    "Epigenomics",
+    "Sorghum & millet",
+    "Open science"
+  ],
+  "links": [
+    {
+      "label": "Portfolio",
+      "url": "https://example.com",
+      "icon": "website"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/",
+      "icon": "linkedin"
+    }
+  ],
+  "publications": [],
+  "projects": [
+    {
+      "title": "Trail Creek Commons",
+      "description": "Flood-adaptive park, studio project",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Mill Village Survey",
+      "description": "Historic preservation documentation",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Rain Garden Kit",
+      "description": "Community design-build",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Thesis: Soft Edges",
+      "description": "Living shorelines for Georgia's coast",
+      "url": "https://example.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MLA Candidate, Landscape Architecture",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "GSA General Assembly",
+      "date": "Nov 4, 2026",
+      "where": "Tate Center 480",
+      "url": ""
+    },
+    {
+      "title": "Research Showcase Poster Night",
+      "date": "Nov 19, 2026",
+      "where": "Zell B. Miller Learning Center",
+      "url": ""
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#1f5fbf",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#EDEDED"
+  }
+}
